@@ -1,4 +1,4 @@
-9720
+9721
 96C:\Users\HP\Desktop\RecipeMaster\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\intro.doc133653316908588067 0
 75C:\Users\HP\Desktop\RecipeMaster\node_modules\@parcel\watcher\index.js.flow133653316895400825 0
 104C:\Users\HP\Desktop\RecipeMaster\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\generator133653316909135943 1
@@ -20,7 +20,7 @@
 54C:\Users\HP\Desktop\RecipeMaster\node_modules\get-port133653316896597680 1
 83C:\Users\HP\Desktop\RecipeMaster\node_modules\core-js\features\typed-array\every.js133686283802740169 0
 52C:\Users\HP\Desktop\RecipeMaster\node_modules\semver133653316905839857 1
-56C:\Users\HP\Desktop\RecipeMaster\dist\icons.dfd7a6db.svg133724162753852003 0
+56C:\Users\HP\Desktop\RecipeMaster\dist\icons.dfd7a6db.svg133780256359745888 0
 44C:\Users\HP\Desktop\RecipeMaster\.prettierrc133652469793045206 0
 103C:\Users\HP\Desktop\RecipeMaster\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\_path.js133653316897885309 0
 77C:\Users\HP\Desktop\RecipeMaster\node_modules\css-tree\lib\syntax\node\Url.js133653316912383678 0
@@ -28,7 +28,7 @@
 72C:\Users\HP\Desktop\RecipeMaster\node_modules\core-js\full\math\isubh.js133686283818083075 0
 55C:\Users\HP\Desktop\RecipeMaster\node_modules\@mischnic133653316882577881 1
 61C:\Users\HP\Desktop\RecipeMaster\forkify-flowchart-part-1.png133652469793440780 0
-37C:\Users\HP\Desktop\RecipeMaster\dist133724162753931963 1
+37C:\Users\HP\Desktop\RecipeMaster\dist133780258151991929 1
 75C:\Users\HP\Desktop\RecipeMaster\node_modules\update-browserslist-db\cli.js133653316895812929 0
 72C:\Users\HP\Desktop\RecipeMaster\forkify-architecture-recipe-loading.png133652469793248497 0
 91C:\Users\HP\Desktop\RecipeMaster\node_modules\core-js\internals\object-define-properties.js133686283822798181 0
@@ -159,7 +159,7 @@
 87C:\Users\HP\Desktop\RecipeMaster\node_modules\.bin\node-gyp-build-optional-packages.cmd133653316919960677 0
 76C:\Users\HP\Desktop\RecipeMaster\node_modules\htmlparser2\lib\index.d.ts.map133653316899474449 0
 66C:\Users\HP\Desktop\RecipeMaster\node_modules\micromatch\README.md133653316896458165 0
-52C:\Users\HP\Desktop\RecipeMaster\src\sass\_base.scss133652469795192659 0
+52C:\Users\HP\Desktop\RecipeMaster\src\sass\_base.scss133780258150881126 0
 93C:\Users\HP\Desktop\RecipeMaster\node_modules\core-js\modules\esnext.uint8-array.to-base64.js133686283801850633 0
 64C:\Users\HP\Desktop\RecipeMaster\node_modules\chrome-trace-event133653316897423827 1
 79C:\Users\HP\Desktop\RecipeMaster\node_modules\core-js\features\instance\flat.js133686283807134539 0
@@ -2520,7 +2520,7 @@
 64C:\Users\HP\Desktop\RecipeMaster\node_modules\micromatch\LICENSE133653316894829936 0
 105C:\Users\HP\Desktop\RecipeMaster\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\plugins.js133653316905094875 0
 95C:\Users\HP\Desktop\RecipeMaster\node_modules\csso\node_modules\css-tree\lib\syntax\node\Url.js133653316912158816 0
-59C:\Users\HP\Desktop\RecipeMaster\dist\index.e37f48ea.js.map133724162753765172 0
+59C:\Users\HP\Desktop\RecipeMaster\dist\index.e37f48ea.js.map133780256360209871 0
 101C:\Users\HP\Desktop\RecipeMaster\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.sln133653316910027422 0
 97C:\Users\HP\Desktop\RecipeMaster\node_modules\csso\node_modules\css-tree\lib\syntax\node\Block.js133653316909764647 0
 91C:\Users\HP\Desktop\RecipeMaster\node_modules\core-js\actual\number\virtual\to-precision.js133686283835987206 0
@@ -3248,7 +3248,7 @@
 78C:\Users\HP\Desktop\RecipeMaster\node_modules\core-js\stable\regexp\replace.js133686283827959650 0
 71C:\Users\HP\Desktop\RecipeMaster\node_modules\core-js\es\array\every.js133686283802621418 0
 68C:\Users\HP\Desktop\RecipeMaster\node_modules\domutils\lib\legacy.js133653316897054436 0
-60C:\Users\HP\Desktop\RecipeMaster\dist\index.f7626f62.css.map133724162753852003 0
+60C:\Users\HP\Desktop\RecipeMaster\dist\index.f7626f62.css.map133780258151977961 0
 76C:\Users\HP\Desktop\RecipeMaster\node_modules\core-js\features\math\clamp.js133686283787996544 0
 65C:\Users\HP\Desktop\RecipeMaster\node_modules\glob-parent\LICENSE133653316894765919 0
 98C:\Users\HP\Desktop\RecipeMaster\node_modules\csso\node_modules\css-tree\cjs\syntax\config\mix.cjs133653316907625605 0
@@ -7977,7 +7977,7 @@
 77C:\Users\HP\Desktop\RecipeMaster\node_modules\caniuse-lite\data\regions\VN.js133653316918928817 0
 77C:\Users\HP\Desktop\RecipeMaster\node_modules\caniuse-lite\data\regions\ZA.js133653316919554134 0
 77C:\Users\HP\Desktop\RecipeMaster\node_modules\caniuse-lite\data\regions\ZM.js133653316919565413 0
-55C:\Users\HP\Desktop\RecipeMaster\dist\index.e37f48ea.js133724162753683065 0
+55C:\Users\HP\Desktop\RecipeMaster\dist\index.e37f48ea.js133780256360145670 0
 77C:\Users\HP\Desktop\RecipeMaster\node_modules\caniuse-lite\data\regions\ZW.js133653316919586330 0
 79C:\Users\HP\Desktop\RecipeMaster\node_modules\caniuse-lite\data\features\aac.js133653316895693739 0
 91C:\Users\HP\Desktop\RecipeMaster\node_modules\caniuse-lite\data\features\abortcontroller.js133653316896156994 0
@@ -9713,9 +9713,10 @@
 59C:\Users\HP\Desktop\RecipeMaster\node_modules\.bin\svgo.ps1133653316919970646 0
 77C:\Users\HP\Desktop\RecipeMaster\node_modules\.bin\update-browserslist-db.cmd133653316919970646 0
 77C:\Users\HP\Desktop\RecipeMaster\node_modules\.bin\update-browserslist-db.ps1133653316919970646 0
-58C:\Users\HP\Desktop\RecipeMaster\dist\favicon.8b2f57bf.png133724162753215008 0
-56C:\Users\HP\Desktop\RecipeMaster\dist\icons.21bad73c.svg133724162753852003 0
 55C:\Users\HP\Desktop\RecipeMaster\dist\index.62406edb.js133686000786625259 0
-56C:\Users\HP\Desktop\RecipeMaster\dist\index.f7626f62.css133724162753852003 0
-48C:\Users\HP\Desktop\RecipeMaster\dist\index.html133724162753683065 0
-55C:\Users\HP\Desktop\RecipeMaster\dist\logo.726d37a8.png133724162753193341 0
+43C:\Users\HP\Desktop\RecipeMaster\.gitignore133780250662459124 0
+55C:\Users\HP\Desktop\RecipeMaster\dist\logo.726d37a8.png133780256359251310 0
+48C:\Users\HP\Desktop\RecipeMaster\dist\index.html133780256359551479 0
+58C:\Users\HP\Desktop\RecipeMaster\dist\favicon.8b2f57bf.png133780256359892836 0
+56C:\Users\HP\Desktop\RecipeMaster\dist\icons.21bad73c.svg133780256360354132 0
+56C:\Users\HP\Desktop\RecipeMaster\dist\index.f7626f62.css133780258151948584 0
